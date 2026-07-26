@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Tree -->
+  <project name="Shadow-Arc01/device_realme_RMX1941" 
+           path="device/realme/RMX1941" 
+           remote="github" 
+           revision="twelve" />
+
+  <!-- Vendor Tree -->
+  <project name="Shadow-Arc01/vendor_realme_RMX1941" 
+           path="vendor/realme/RMX1941" 
+           remote="github" 
+           revision="twelve" />
+</manifest>
 
