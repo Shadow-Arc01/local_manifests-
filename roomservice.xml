@@ -11,5 +11,11 @@
            path="vendor/realme/RMX1941" 
            remote="github" 
            revision="twelve" />
+
+   <!-- MTK IMS -->
+  <project name="Shadow-Arc01/android_vendor_realme-ims"
+           path="vendor/mtk-ims"
+           remote="github"
+           revision="twelve" />
 </manifest>
 
