@@ -14,7 +14,7 @@
 
    <!-- MTK IMS -->
   <project name="Shadow-Arc01/android_vendor_realme-ims"
-           path="vendor/mtk-ims"
+           path="vendor/realme-ims"
            remote="github"
            revision="twelve" />
 </manifest>
