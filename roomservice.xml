@@ -29,5 +29,11 @@
            path="kernel/realme/RMX1941"
            remote="github"
            revision="P" />
+  
+<project name="Shadow-Arc01/android_packages_apps_RealmeDirac"
+         path="packages/apps/RealmeDirac"
+         remote="github"
+         revision="lineage-19.1" />
+  
 </manifest>
 
